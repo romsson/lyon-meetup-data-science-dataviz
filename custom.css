@@ -1,0 +1,13 @@
+/*Some css fixes to use night theme with IPython slides*/
+.reveal p {
+  font-size: 120%;
+  font-weight: 100;
+}
+
+a {
+  text-decoration: underline;
+}
+
+.slides {
+  width: 1060px;
+}
